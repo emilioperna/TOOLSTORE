@@ -1,0 +1,13 @@
+{
+  "software_name": "Trascrittore Pro",
+  "tagline": "Soluzione OCR Ibrida Professionale",
+  "logo_url": "https://raw.githubusercontent.com/emilioperna/softwaretranscrizione/main/assets/logo.png",
+  "favicon_url": "https://raw.githubusercontent.com/emilioperna/softwaretranscrizione/main/assets/favicon.ico",
+  "splash_settings": {
+    "width": 550,
+    "height": 350,
+    "bg_color": "#FFFFFF",
+    "text_color": "#0F172A",
+    "accent_color": "#38BDF8"
+  }
+}
