@@ -1,12 +1,8 @@
 [
   {
     "version": "9.99",
-    "url": "https://raw.githubusercontent.com/emilioperna/softwaretrascrizione/refs/heads/main/test_update.zip",
-    "changelog": [
-      "Aggiunto il nuovo motore di aggiornamento atomico.",
-      "Migliorata la stabilità dell'OCR.",
-      "Fix minori e ottimizzazioni grafiche."
-    ],
-    "size_mb": 1.5
+    "url": "https://github.com/emilioperna/softwaretrascrizione/archive/refs/tags/v9.99.zip",
+    "changelog": ["Test dello Swap Atomico", "Nuovo sistema di aggiornamento silenzioso"],
+    "size_mb": 2
   }
 ]
