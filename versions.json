@@ -1,7 +1,7 @@
 [
   {
     "version": "1.00",
-    "url": "https://github.com/.../v1.00.zip",
+    "url": "https://github.com/emilioperna/softwaretrascrizione/releases/download/v1.00/TrascrittorePro.zip",
     "required_build_id": 1,
     "modules": {
       "trascrizione": { "available": true, "name": "Pacchetto Trascrizioni", "icon": "📄" }
@@ -9,22 +9,23 @@
   },
   {
     "version": "2.00",
-    "url": "https://github.com/.../v2.00.zip",
+    "url": "https://github.com/emilioperna/softwaretrascrizione/releases/download/v2.00/TrascrittorePro_v2.zip",
     "required_build_id": 1,
     "modules": {
       "trascrizione": { "available": true, "name": "Pacchetto Trascrizioni", "icon": "📄" },
       "audio": { "available": true, "name": "Super Trascrizione Audio", "icon": "🎧" },
       "miglioramento_foto": { "available": true, "name": "AI Photo Enhancer", "icon": "📸" }
-    },
+    }
+  },
   {
     "version": "2.50",
-    "url": "https://github.com/.../v2.00.zip",
+    "url": "https://github.com/emilioperna/softwaretrascrizione/releases/download/v2.50/TrascrittorePro_v2.5.zip",
     "required_build_id": 1,
     "modules": {
-      "Trascrizione": { "available": true, "name": "Pacchetto Trascrizioni", "icon": "📄" },
-      "Audio": { "available": true, "name": "Super Trascrizione Audio", "icon": "🎧" },
-      "miglioramento_foto": { "available": true, "name": "AI Photo Enhancer", "icon": "📸" }
-      "Metadati": { "available": true, "name": "Metadati Cleaner", "icon": "📸" }
+      "trascrizione": { "available": true, "name": "Pacchetto Trascrizioni", "icon": "📄" },
+      "audio": { "available": true, "name": "Super Trascrizione Audio", "icon": "🎧" },
+      "miglioramento_foto": { "available": true, "name": "AI Photo Enhancer", "icon": "📸" },
+      "metadati": { "available": true, "name": "Metadati Cleaner", "icon": "⚙️" }
     }
   }
 ]
