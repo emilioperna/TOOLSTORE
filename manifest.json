@@ -3,6 +3,8 @@
     "tag.txt",
     "links.json",
     "versions.json",
-    "announcements.json"
+    "announcement.json",
+    "launcher.json",
+    "logo.png"
   ]
 }
