@@ -3,16 +3,16 @@
     "version": "1.00",
     "url": "https://github.com/.../v1.00.zip",
     "modules": {
-      "trascrizione": { "available": true }
+      "trascrizione": { "available": true, "name": "Pacchetto Trascrizioni", "icon": "📄" }
     }
   },
   {
     "version": "2.00",
     "url": "https://github.com/.../v2.00.zip",
     "modules": {
-      "trascrizione": { "available": true },
-      "audio": { "available": true },
-      "miglioramento_foto": { "available": true }
+      "trascrizione": { "available": true, "name": "Pacchetto Trascrizioni", "icon": "📄" },
+      "audio": { "available": true, "name": "Super Trascrizione Audio", "icon": "🎧" },
+      "miglioramento_foto": { "available": true, "name": "AI Photo Enhancer", "icon": "📸" }
     }
   }
 ]
