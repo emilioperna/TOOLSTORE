@@ -6,7 +6,7 @@
     "versions.json": { "version": "1.0.0", "url": "https://raw.githubusercontent.com/emilioperna/softwaretrascrizione/refs/heads/main/versions.json" },
     "announcement.json": { "version": "1.0.0", "url": "https://raw.githubusercontent.com/emilioperna/softwaretrascrizione/refs/heads/main/announcement.json" },
     "launcher.json": { "version": "1.0.0", "url": "https://raw.githubusercontent.com/emilioperna/softwaretrascrizione/refs/heads/main/launcher.json" },
-    "roadmap.json": { "version": "1.0.0", "url": "https://raw.githubusercontent.com/emilioperna/softwaretrascrizione/refs/heads/main/roadmap.json" },
+    "roadmap.json": { "version": "1.0.1", "url": "https://raw.githubusercontent.com/emilioperna/softwaretrascrizione/refs/heads/main/roadmap.json" },
     "logo.png": { "version": "1.0.0", "url": "https://raw.githubusercontent.com/emilioperna/softwaretrascrizione/refs/heads/main/logo.png" }
   }
 }
