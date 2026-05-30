@@ -1,10 +1,12 @@
 {
-  "files": [
-    "tag.txt",
-    "links.json",
-    "versions.json",
-    "announcement.json",
-    "launcher.json",
-    "logo.png"
-  ]
+  "manifest_version": "1.0.0",
+  "files": {
+    "tag.txt": { "version": "1.0.0", "url": "https://raw.githubusercontent.com/emilioperna/softwaretrascrizione/refs/heads/main/tag.txt" },
+    "links.json": { "version": "1.0.0", "url": "https://raw.githubusercontent.com/emilioperna/softwaretrascrizione/refs/heads/main/links.json" },
+    "versions.json": { "version": "1.0.0", "url": "https://raw.githubusercontent.com/emilioperna/softwaretrascrizione/refs/heads/main/versions.json" },
+    "announcement.json": { "version": "1.0.0", "url": "https://raw.githubusercontent.com/emilioperna/softwaretrascrizione/refs/heads/main/announcement.json" },
+    "launcher.json": { "version": "1.0.0", "url": "https://raw.githubusercontent.com/emilioperna/softwaretrascrizione/refs/heads/main/launcher.json" },
+    "roadmap.json": { "version": "1.0.0", "url": "https://raw.githubusercontent.com/emilioperna/softwaretrascrizione/refs/heads/main/roadmap.json" },
+    "logo.png": { "version": "1.0.0", "url": "https://raw.githubusercontent.com/emilioperna/softwaretrascrizione/refs/heads/main/logo.png" }
+  }
 }
