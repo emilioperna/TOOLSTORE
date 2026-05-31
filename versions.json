@@ -2,7 +2,7 @@
   {
     "version": "1.00",
     "url": "https://github.com/emilioperna/softwaretrascrizione/releases/download/v1.00/TOOLSTORE.zip",
-    "required_build_id": 1,
+    "required_build_id": 2,
     "modules": {
       "trascrizione": { "available": true, "name": "Pacchetto Trascrizioni", "icon": "📄" }
     }
