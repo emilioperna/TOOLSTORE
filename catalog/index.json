@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-05T00:00:00Z",
+  "apps": [
+    {
+      "id": "trascrizioni",
+      "category": "produttivita",
+      "icon": "apps/trascrizioni/icon.png",
+      "screenshots": [
+        "apps/trascrizioni/screenshots/1.png",
+        "apps/trascrizioni/screenshots/2.png"
+      ],
+      "i18n": {
+        "en": {
+          "name": "Transcriptions",
+          "summary": "Extract text from images, chats and videos — fully offline OCR.",
+          "description": "Turn screenshots, chat captures and video frames into editable text and spreadsheets. Everything runs on your PC: no cloud, no upload, your files never leave the machine. Self-contained app, nothing else to install."
+        },
+        "it": {
+          "name": "Trascrizioni",
+          "summary": "Estrai testo da immagini, chat e video — OCR interamente offline.",
+          "description": "Trasforma screenshot, catture di chat e fotogrammi video in testo modificabile e fogli di calcolo. Tutto gira sul tuo PC: niente cloud, niente upload, i file non lasciano mai la macchina. App autonoma, non serve installare altro."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.0",
+          "released_at": "2026-07-05T00:00:00Z",
+          "url": "https://github.com/emilioperna/TOOLSTORE/releases/download/trascrizioni-1.0/trascrizioni-1.0-win-x64.zip",
+          "sha256": "1bd2f7beb56591123fc0e2cbea7019282095e525d4fcd581de50e175b4741569",
+          "size": 462906913,
+          "os": "windows",
+          "arch": "x64",
+          "min_specs": {"ram_gb": 4, "vram_gb": 0, "disk_gb": 2, "cpu_cores": 2},
+          "optimal_specs": {"ram_gb": 8, "vram_gb": 0, "disk_gb": 3, "cpu_cores": 4},
+          "model_deps": [],
+          "i18n": {
+            "en": {"changelog": "First public release. Self-contained OCR bundle: images, chats and video frames to text/CSV. Tesseract included."},
+            "it": {"changelog": "Prima release pubblica. Bundle OCR autonomo: immagini, chat e fotogrammi video in testo/CSV. Tesseract incluso."}
+          }
+        }
+      ]
+    }
+  ]
+}
