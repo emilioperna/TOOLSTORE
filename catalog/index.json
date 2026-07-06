@@ -27,16 +27,16 @@
           "version": "1.0",
           "released_at": "2026-07-05T00:00:00Z",
           "url": "https://github.com/emilioperna/TOOLSTORE/releases/download/trascrizioni-1.0/trascrizioni-1.0-win-x64.zip",
-          "sha256": "1bd2f7beb56591123fc0e2cbea7019282095e525d4fcd581de50e175b4741569",
-          "size": 462906913,
+          "sha256": "c823fa8d344997d55ce1577381caf2a369e1c4bff158ee309f45b3a583be8227",
+          "size": 463354652,
           "os": "windows",
           "arch": "x64",
           "min_specs": {"ram_gb": 4, "vram_gb": 0, "disk_gb": 2, "cpu_cores": 2},
           "optimal_specs": {"ram_gb": 8, "vram_gb": 0, "disk_gb": 3, "cpu_cores": 4},
           "model_deps": [],
           "i18n": {
-            "en": {"changelog": "First public release. Self-contained OCR bundle: images, chats and video frames to text/CSV. Tesseract included."},
-            "it": {"changelog": "Prima release pubblica. Bundle OCR autonomo: immagini, chat e fotogrammi video in testo/CSV. Tesseract incluso."}
+            "en": {"changelog": "First public release. Self-contained OCR bundle: images, chats and video frames to text/CSV. Tesseract included. Core code compiled to native (anti-tamper)."},
+            "it": {"changelog": "Prima release pubblica. Bundle OCR autonomo: immagini, chat e fotogrammi video in testo/CSV. Tesseract incluso. Codice core compilato in nativo (anti-manomissione)."}
           }
         }
       ]
