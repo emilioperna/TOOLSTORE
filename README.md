@@ -55,7 +55,7 @@ Each tool is a **self-contained app** (its runtime and models live *inside* the 
 
 1. **Install TOOLSTORE** — one `.exe`, no dependencies to set up.
 2. **Browse the catalog** — the store fetches a **signed** list of tools from GitHub.
-3. **Install a tool** — the package and its models are downloaded and **sha256-verified**, then the tool is ready.
+3. **Install a tool** — the package is downloaded and **sha256-verified**, then the tool is ready.
 4. **Stay updated** — when a tool's repository publishes a new version, the store shows an **"Update"** badge.
 
 ---
@@ -74,7 +74,7 @@ Each tool is a **self-contained app** (its runtime and models live *inside* the 
 
 | Tool | What it does | Runs offline |
 |------|--------------|:---:|
-| **Trascrizioni** | Audio/video → text transcription (Whisper), image & chat OCR | ✅ |
+| **Trascrizioni** | Images, chats & video frames → editable text and spreadsheets (OCR) | ✅ |
 
 *More tools are added continuously — they show up in your store automatically thanks to the signed catalog.*
 
