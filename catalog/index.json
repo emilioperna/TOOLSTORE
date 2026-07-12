@@ -24,6 +24,36 @@
       },
       "versions": [
         {
+          "version": "1.0.1",
+          "released_at": "2026-07-12T00:00:00Z",
+          "url": "https://github.com/emilioperna/trascrizioni-app/releases/download/v1.0.1/trascrizioni-1.0.1-win-x64.zip",
+          "sha256": "66d62767c147e36b91f38e665731b6fb26dbb363198eafb1d0f883fcfe1ac7da",
+          "size": 463359324,
+          "os": "windows",
+          "arch": "x64",
+          "min_specs": {
+            "ram_gb": 4,
+            "vram_gb": 0,
+            "disk_gb": 2,
+            "cpu_cores": 2
+          },
+          "optimal_specs": {
+            "ram_gb": 8,
+            "vram_gb": 0,
+            "disk_gb": 3,
+            "cpu_cores": 4
+          },
+          "model_deps": [],
+          "i18n": {
+            "en": {
+              "changelog": "Batched image upload: large image batches (hundreds of files) no longer fail with a network error; files are uploaded in chunks and merged into a single job."
+            },
+            "it": {
+              "changelog": "Upload immagini a lotti: i batch grandi (centinaia di immagini) non falliscono piu' con 'Errore di rete'; i file vengono caricati a lotti e uniti in un unico job."
+            }
+          }
+        },
+        {
           "version": "1.0",
           "released_at": "2026-07-05T00:00:00Z",
           "url": "https://github.com/emilioperna/TOOLSTORE/releases/download/trascrizioni-1.0/trascrizioni-1.0-win-x64.zip",
@@ -31,12 +61,26 @@
           "size": 463354652,
           "os": "windows",
           "arch": "x64",
-          "min_specs": {"ram_gb": 4, "vram_gb": 0, "disk_gb": 2, "cpu_cores": 2},
-          "optimal_specs": {"ram_gb": 8, "vram_gb": 0, "disk_gb": 3, "cpu_cores": 4},
+          "min_specs": {
+            "ram_gb": 4,
+            "vram_gb": 0,
+            "disk_gb": 2,
+            "cpu_cores": 2
+          },
+          "optimal_specs": {
+            "ram_gb": 8,
+            "vram_gb": 0,
+            "disk_gb": 3,
+            "cpu_cores": 4
+          },
           "model_deps": [],
           "i18n": {
-            "en": {"changelog": "First public release. Self-contained OCR bundle: images, chats and video frames to text/CSV. Tesseract included. Core code compiled to native (anti-tamper)."},
-            "it": {"changelog": "Prima release pubblica. Bundle OCR autonomo: immagini, chat e fotogrammi video in testo/CSV. Tesseract incluso. Codice core compilato in nativo (anti-manomissione)."}
+            "en": {
+              "changelog": "First public release. Self-contained OCR bundle: images, chats and video frames to text/CSV. Tesseract included. Core code compiled to native (anti-tamper)."
+            },
+            "it": {
+              "changelog": "Prima release pubblica. Bundle OCR autonomo: immagini, chat e fotogrammi video in testo/CSV. Tesseract incluso. Codice core compilato in nativo (anti-manomissione)."
+            }
           }
         }
       ]
